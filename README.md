@@ -1,9 +1,10 @@
 # Assistente de Legislação Tributária com RAG
 
 Assistente de perguntas e respostas sobre legislação tributária brasileira (Código
-Tributário Nacional + Simples Nacional), construído para demonstrar competências de
-AI Engineering: RAG, busca híbrida, agentes com tool calling, avaliação com gabarito e
-observabilidade — do zero, sem framework de RAG pronto.
+Tributário Nacional + Simples Nacional): busca híbrida (vetorial + full-text), agente
+com tool calling, citação obrigatória de artigo de lei, avaliação com gabarito
+verificado artigo por artigo, observabilidade — construído do zero, sem framework de
+RAG pronto.
 
 **Este repositório é uma vitrine.** O código-fonte é privado; este README documenta a
 arquitetura, as decisões técnicas e os resultados de avaliação. Código disponível sob
